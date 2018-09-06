@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="contact_type" label="Channel" language="en" table="x_213903_custom_ap_custom_app_gmd_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>contact_type</element>
+            <help/>
+            <hint/>
+            <label>Channel</label>
+            <language>en</language>
+            <name>x_213903_custom_ap_custom_app_gmd_table</name>
+            <plural>Channels</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-06 10:00:38</sys_created_on>
+            <sys_id>7efc57badb902300cdf4d426ca9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Channel</sys_name>
+            <sys_package display_value="Custom App GMD" source="x_213903_custom_ap">868a3aa9db102300cdf4d426ca9619fc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Custom App GMD">868a3aa9db102300cdf4d426ca9619fc</sys_scope>
+            <sys_update_name>sys_documentation_x_213903_custom_ap_custom_app_gmd_table_contact_type_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-06 10:00:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
