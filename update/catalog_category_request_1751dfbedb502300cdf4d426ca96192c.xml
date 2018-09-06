@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_category_request">
+    <catalog_category_request action="INSERT_OR_UPDATE">
+        <category display_value="Global Master Data Scoped app Services">6672dffedb502300cdf4d426ca9619d5</category>
+        <comments/>
+        <department display_value="Global Master Data">6d62d2eedb902300cdf4d426ca96199e</department>
+        <department_or_group>department</department_or_group>
+        <due_date/>
+        <editors/>
+        <group/>
+        <manager display_value="Abel Tuter (architect)">62826bf03710200044e0bfc8bcbe5df1</manager>
+        <name>Global Master Data Scoped app Services</name>
+        <number>CCR0001004</number>
+        <parent_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</parent_category>
+        <published>true</published>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <state>published</state>
+        <sys_class_name>catalog_category_request</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-06 09:10:39</sys_created_on>
+        <sys_id>1751dfbedb502300cdf4d426ca96192c</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>CCR0001004</sys_name>
+        <sys_package display_value="Custom App GMD" source="x_213903_custom_ap">868a3aa9db102300cdf4d426ca9619fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom App GMD">868a3aa9db102300cdf4d426ca9619fc</sys_scope>
+        <sys_update_name>catalog_category_request_1751dfbedb502300cdf4d426ca96192c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-06 09:15:33</sys_updated_on>
+        <table display_value="Custom App GMD Table" name="x_213903_custom_ap_custom_app_gmd_table">c68a3aa9db102300cdf4d426ca9619fc</table>
+        <table_name>x_213903_custom_ap_global_mast</table_name>
+    </catalog_category_request>
+</record_update>

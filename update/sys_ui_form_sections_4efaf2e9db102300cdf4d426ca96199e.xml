@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="4efaf2e9db102300cdf4d426ca96199e" sys_domain="global" table="x_213903_custom_ap_custom_app_gmd_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-02 10:19:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>46faf2e9db102300cdf4d426ca9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_213903_custom_ap_custom_app_gmd_table" name="x_213903_custom_ap_custom_app_gmd_table" sys_domain="global" view="f596b3413bb30300b5c42479b3efc486">4efaf2e9db102300cdf4d426ca96199e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_213903_custom_ap_custom_app_gmd_table" sys_domain="global" view="f596b3413bb30300b5c42479b3efc486">0afaf2e9db102300cdf4d426ca9619a4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-02 10:19:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-02 10:19:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6faf2e9db102300cdf4d426ca9619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_213903_custom_ap_custom_app_gmd_table" name="x_213903_custom_ap_custom_app_gmd_table" sys_domain="global" view="f596b3413bb30300b5c42479b3efc486">4efaf2e9db102300cdf4d426ca96199e</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_213903_custom_ap_custom_app_gmd_table" sys_domain="global" view="f596b3413bb30300b5c42479b3efc486">8afaf2e9db102300cdf4d426ca9619a0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-02 10:19:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-02 10:19:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8afaf2e9db102300cdf4d426ca9619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_213903_custom_ap_custom_app_gmd_table" name="x_213903_custom_ap_custom_app_gmd_table" sys_domain="global" view="f596b3413bb30300b5c42479b3efc486">4efaf2e9db102300cdf4d426ca96199e</sys_ui_form>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="x_213903_custom_ap_custom_app_gmd_table" sys_domain="global" view="f596b3413bb30300b5c42479b3efc486">4afaf2e9db102300cdf4d426ca9619a7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-02 10:19:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-02 10:19:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>06faf2e9db102300cdf4d426ca9619a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_213903_custom_ap_custom_app_gmd_table" name="x_213903_custom_ap_custom_app_gmd_table" sys_domain="global" view="f596b3413bb30300b5c42479b3efc486">4efaf2e9db102300cdf4d426ca96199e</sys_ui_form>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_213903_custom_ap_custom_app_gmd_table" sys_domain="global" view="f596b3413bb30300b5c42479b3efc486">cafaf2e9db102300cdf4d426ca9619a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-02 10:19:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_213903_custom_ap_custom_app_gmd_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-02 10:19:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4efaf2e9db102300cdf4d426ca96199e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_213903_custom_ap_custom_app_gmd_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Custom App GMD" source="x_213903_custom_ap">868a3aa9db102300cdf4d426ca9619fc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Custom App GMD">868a3aa9db102300cdf4d426ca9619fc</sys_scope>
+            <sys_update_name>sys_ui_form_sections_4efaf2e9db102300cdf4d426ca96199e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-02 10:19:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Major Case" name="major_case">f596b3413bb30300b5c42479b3efc486</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" extends="sn_customerservice_case" label="Custom App GMD Table" max_length="40" name="x_213903_custom_ap_custom_app_gmd_table" sizeclass="5" text_index="true" type="collection"/>
+</database>

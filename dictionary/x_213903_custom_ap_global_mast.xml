@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="service_task" label="Custom Ap Global Mast" max_length="40" name="x_213903_custom_ap_global_mast" text_index="true" type="collection"/>
+</database>

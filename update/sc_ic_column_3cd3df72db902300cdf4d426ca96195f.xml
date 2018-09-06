@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_column">
+    <sc_ic_column action="INSERT_OR_UPDATE">
+        <index>0</index>
+        <name/>
+        <sc_ic_section display_value="Section 1">fcd3df72db902300cdf4d426ca961950</sc_ic_section>
+        <sys_class_name>sc_ic_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-06 09:20:38</sys_created_on>
+        <sys_id>3cd3df72db902300cdf4d426ca96195f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Custom App GMD" source="x_213903_custom_ap">868a3aa9db102300cdf4d426ca9619fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom App GMD">868a3aa9db102300cdf4d426ca9619fc</sys_scope>
+        <sys_update_name>sc_ic_column_3cd3df72db902300cdf4d426ca96195f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-06 09:20:38</sys_updated_on>
+    </sc_ic_column>
+</record_update>

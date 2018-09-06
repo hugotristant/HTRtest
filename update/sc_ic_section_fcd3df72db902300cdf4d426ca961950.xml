@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_ic_section">
+    <sc_ic_section action="INSERT_OR_UPDATE">
+        <index>0</index>
+        <label/>
+        <name>Section 1</name>
+        <sc_ic_item_staging display_value="New scoped app service HTR">78d35b72db902300cdf4d426ca96195d</sc_ic_item_staging>
+        <sys_class_name>sc_ic_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-06 09:20:37</sys_created_on>
+        <sys_id>fcd3df72db902300cdf4d426ca961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Section 0</sys_name>
+        <sys_package display_value="Custom App GMD" source="x_213903_custom_ap">868a3aa9db102300cdf4d426ca9619fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom App GMD">868a3aa9db102300cdf4d426ca9619fc</sys_scope>
+        <sys_update_name>sc_ic_section_fcd3df72db902300cdf4d426ca961950</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-06 09:20:37</sys_updated_on>
+    </sc_ic_section>
+    <sys_translated_text action="delete_multiple" query="documentkey=fcd3df72db902300cdf4d426ca961950"/>
+</record_update>
